@@ -1,4 +1,3 @@
-# Gopi-Sirisha-Guntuku
 <h1 align="center">Hi 👋, I'm Gopi Sirisha G</h1>
 <h3 align="center">FinTech Data Engineer & Analyst | AI/ML | 
 Microsoft Fabric ⭐ | Snowflake | Azure | LLM & NLP</h3>
